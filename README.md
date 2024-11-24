@@ -47,7 +47,6 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/JoaoFranco03/Foco)
 This project is an innovative tour planning system, comprising an interactive iOS app and a Flask API, leveraging the power of Gemini and API's such as the Google Places API and the OpenWeatherMap API.
 
 # Problem Addressed
@@ -96,7 +95,8 @@ By following these instructions, you should be able to explore and test the func
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Video
+## Video Links
+https://youtube.com/shorts/XCwfeLANSos
 https://we.tl/t-aKMz3d7QvZ
 
 ## Built With
