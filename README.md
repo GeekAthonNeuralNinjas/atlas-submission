@@ -78,7 +78,7 @@ Our backend is hosted on aws lightsail and its endpoint can be accessed here:
 To get the Atlas project up and running on your local environment, follow these steps:
 
 1. **Open the Xcode Project**:
-   - Download the repository and open the Xcode solution file (`.xcworkspace` or `.xcodeproj`) using Xcode.
+   - Download the repository and open the Xcode solution file  (`.xcworkspace` or `.xcodeproj`) using Xcode.
 
 2. **Configure Signing**:
    - In Xcode, go to the project navigator and select your target (usually named after the app).
@@ -111,33 +111,13 @@ By following these instructions, you should be able to explore and test the func
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-## License
+## Notes
 
-Distributed under the GPL-3.0 License. See `LICENSE` for more information.
+Since we've been experiencing some problems with AWS regarding Traffic Congestion in the submission phase, we please ask you to retry any requests if they fail.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+If even that it way, it does not work we can show you using a proxy to our local machines.
 
-
-
-<!-- CONTACT -->
-## Contact
-
-João Franco - [LinkedIn](https://www.linkedin.com/in/joão-franco-452161195/)
-
-Project Link: [https://github.com/JoaoFranco03/Foco](https://github.com/JoaoFranco03/Foco)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [SF Symbols](https://developer.apple.com/sf-symbols/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Thank You for your understanding!
 
 
 
